@@ -9,7 +9,7 @@ Simple:
 
 1. Clone this project
 1. Run 'bundle install'
-1. test fetching by `ruby read_readings.rb username password`
+1. test fetching by `ruby get_readings.rb <username> <password>`
 
 License
 -------
